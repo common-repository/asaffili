@@ -1,0 +1,246 @@
+.pagination
+{
+	list-style:none;
+}
+
+.pagination li
+{
+	float:left;
+	padding:5px;
+	margin-right:3px;
+	border:solid 1px #f4f4f4;
+	
+}
+
+
+
+
+
+.asaffili-grid-container
+{
+	display:grid;	
+  	padding: 0px;
+  	grid-column-gap: 5px;
+  	grid-row-gap: 10px;
+}
+
+.asaffili-grid-container-3
+{
+	grid-template-columns: 33% 33% 33%;
+}
+
+.asaffili-grid-container-4
+{
+	grid-template-columns: 25% 25% 25% 25%;
+}
+
+		.asaffili-grid-item
+		{
+			background-color:#fff;
+			padding:10px;
+		}
+		.asaffili-grid-item-image
+		{
+			width:60%;
+			margin:auto;
+			height:180px;
+			overflow:hidden;
+			margin-bottom:10px;
+		}
+		.asaffili-grid-item-image img
+		{
+			width:100%;
+		}
+		.asaffili-grid-item-info
+		{
+			text-align:center;
+		}
+		.asaffili-grid-preis
+		{
+			font-size:14px;
+		}
+		.asaffili-grid-preis span
+		{
+			text-decoration:line-through;
+			color:#ff0000;
+		}
+		
+		.asaffili-grid-shipping, .asaffili-grid-preis-g
+		{
+			font-size:12px;
+		}
+		.asaffili-grid-item-title
+		{
+			font-size:14px;line-height:16px;display:block;margin-bottom:10px;
+		}
+		
+		.asaffili-products-cats
+		{
+			background-color:#fff;
+			padding:10px;
+			margin-bottom:10px;
+		}
+		.asaffili-products-cats ul {
+			list-style:none;
+		}
+		.asaffili-products-cats li {
+			width:20%;
+			float:left;
+		}
+		
+		.asaffili-content-frame
+		{
+			background-color:#fff;
+			padding:10px;
+			margin-bottom:5px;
+			margin-top:5px;
+			
+		}
+		
+		.asaffili-pagination
+		{
+			text-align:center;
+		}
+		
+@media(max-width:768px)
+{
+	.asaffili-grid-container
+	{
+		grid-template-columns:100%;
+	}
+	.asaffili-products-cats li {
+			width:100%;
+			float:none;
+		}
+}	
+
+
+
+
+  		.asaffili-product-image	
+		{			
+			background-color:#ffffff;			
+		}
+		.asaffili-product-image	img
+		{
+			width:90%;
+			margin:auto;
+		}
+		
+		.asaffili-product-info
+		{			
+			background-color:#ffffff;
+			padding:15px;
+			font-size:14px;			
+		}
+		.asaffili-product-divider
+		{
+			clear:both;
+		}
+		
+		.asaffili-product-preis
+		{
+			font-size:1.2em;
+			margin-bottom:4px;
+		}
+		.asaffili-product-preis span
+		{
+			text-decoration:line-through;
+			color:#ff0000;
+			margin-left:5px;
+			
+		}
+		
+		.asaffili-product-shipping
+		{
+			margin-bottom:4px;
+		}
+		
+		.asaffili-product-link
+		{
+			margin-bottom:10px;
+		}
+		.asaffili-product-link1 a
+		{
+			display:block;
+			border:solid 1px #afafaf;
+			background-color:#dddddd;
+			padding:5px;
+			text-align:center;
+			width:200px;
+		}
+		
+		.asaffili-product-desc, .asaffili-product-catlist
+		{
+			background-color:#ffffff;
+			padding:10px;
+		}
+		
+		.asaffili-product-affili-note
+		{
+			margin-top:20px;
+			font-size:12px;
+		}
+		
+		
+		
+		.asaffili-list-item	
+		{
+			background-color:#fff;
+			padding:3px;
+			margin-bottom:5px;
+		}
+		
+		.asaffili-list-item-button
+		{
+			float:right;
+			margin-top:20px;
+			margin-left:20px;
+			min-height:100px;
+		}
+		
+		.asaffili-list-item-image
+		{
+			width:200px;
+			margin-right:5px;
+			float:left;
+			min-height:100px;
+		}
+		
+		.asaffili-list-item-image img
+		{
+			max-width:100%;
+		}
+		
+		.asaffili-list-item-info p
+		{
+			font-size:0.8em;			
+		}
+		
+		
+		.asaffili-actions-frame
+		{
+			margin-bottom:20px;
+			margin-top:20px;	
+		}
+		
+		
+		.asaffili-actions-item
+		{
+			border-bottom:solid 1px #d0d0d0;			
+			padding:3px;
+			margin-bottom:3px;
+			width:100%;
+		}		
+		
+		.asaffili-actions-item p
+		{
+			font-size:13px;
+		}
+		.asaffili-actions-item div
+		{
+			float:right;
+			margin-top:20px;
+			margin-left:20px;
+		}
+		

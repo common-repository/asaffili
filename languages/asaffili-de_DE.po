@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-06-27 11:00+0200\n"
+"PO-Revision-Date: 2019-06-27 11:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:41 admin/admin.php:42 admin/options.php:20
+#: admin/options.php:432
+msgid "Products"
+msgstr ""
+
+#: admin/admin.php:50 admin/admin.php:51
+msgid "Product Category"
+msgstr "Produktkategorie"
+
+#: admin/admin.php:59 admin/admin.php:60
+msgid "Imports"
+msgstr "Importe"
+
+#: admin/admin.php:69 admin/admin.php:70 admin/options.php:428
+#: admin/options.php:435
+msgid "Options"
+msgstr "Optionen"
+
+#: admin/banner.php:6
+msgid "asAffili-Banner"
+msgstr ""
+
+#: admin/imports.php:59
+msgid "asAffili-Imports"
+msgstr ""
+
+#: admin/imports.php:75
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: admin/imports.php:76
+msgid "Shop"
+msgstr "Shop"
+
+#: admin/imports.php:77
+msgid "Import"
+msgstr "Import"
+
+#: admin/imports.php:78
+msgid "Fields"
+msgstr "Felder"
+
+#: admin/imports.php:79
+msgid "Link Category"
+msgstr "Linkkategorie"
+
+#: admin/imports.php:80
+msgid "Stats"
+msgstr "Statistik"
+
+#: admin/imports.php:133
+msgid "Import-URL:"
+msgstr ""
+
+#: admin/imports.php:138
+msgid "Compression:"
+msgstr "Kompression"
+
+#: admin/imports.php:147
+msgid "Limit:"
+msgstr "Limit"
+
+#: admin/imports.php:152
+msgid "Remove quotation marks"
+msgstr "Anführungszeichen entfernen"
+
+#: admin/imports.php:154 admin/imports.php:182 admin/imports.php:191
+#: admin/options.php:78 admin/options.php:203 admin/options.php:384
+msgid "No"
+msgstr "Nein"
+
+#: admin/imports.php:155 admin/imports.php:183 admin/imports.php:192
+#: admin/options.php:72 admin/options.php:197 admin/options.php:378
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/imports.php:161
+msgid "Default cateogry"
+msgstr "Standard-Kategorie"
+
+#: admin/imports.php:163
+msgid "No selected"
+msgstr "keine Auswahl"
+
+#: admin/imports.php:175
+msgid "Remove Characters"
+msgstr "Zeichen entfernen"
+
+#: admin/imports.php:198
+msgid "Image-Separator"
+msgstr "Trennung Images"
+
+#: admin/imports.php:212
+msgid "Search phrase"
+msgstr "Suchbegriff"
+
+#: admin/imports.php:263
+msgid "Shop-Title:"
+msgstr "Shop-Titel"
+
+#: admin/imports.php:268
+msgid "Shop-URL:"
+msgstr ""
+
+#: admin/imports.php:336
+msgid "Field-Separator"
+msgstr "Feldtrenner"
+
+#: admin/imports.php:365
+msgid "Field"
+msgstr "Feld"
+
+#: admin/imports.php:424
+msgid "Read Import-File"
+msgstr "Import-Datei einlesen"
+
+#: admin/imports.php:425
+msgid "Print Header"
+msgstr "Kopfzeile ausgeben"
+
+#: admin/imports.php:426
+msgid "Import Datafeed"
+msgstr "Import Datenfeed"
+
+#: admin/imports.php:437
+msgid "Last Import"
+msgstr "Letzter Import"
+
+#: admin/imports.php:441
+msgid "Count Rows"
+msgstr "Anzahl Zeilen"
+
+#: admin/imports.php:442 admin/imports.php:447 admin/imports.php:455
+msgid "Delete All"
+msgstr "Alle Löschen"
+
+#: admin/imports.php:446
+msgid "Count Category"
+msgstr "Anzahl Kategorien"
+
+#: admin/imports.php:454
+msgid "Count old Rows"
+msgstr "Anzahl veraltete Zeilen"
+
+#: admin/imports.php:535
+msgid "Category"
+msgstr "Kategorie"
+
+#: admin/imports.php:551
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/imports.php:556
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/imports.php:560
+msgid "No Import"
+msgstr "kein Import"
+
+#: admin/imports.php:564
+msgid "Toogle to New category"
+msgstr "Zu neuer Kategorie wechseln"
+
+#: admin/imports.php:570
+msgid "Parent Category"
+msgstr "Übergeordnete Kategorie"
+
+#: admin/imports.php:574 admin/products.php:35 admin/products.php:36
+msgid "New Category"
+msgstr "Neue Kategorie"
+
+#: admin/imports.php:576
+msgid "Create Category"
+msgstr "Kategorie erzeugen"
+
+#: admin/imports.php:1538
+msgid "Title"
+msgstr "Titel"
+
+#: admin/imports.php:1539
+msgid "LastDate"
+msgstr "Letztes Datum"
+
+#: admin/imports.php:1540
+msgid "Date"
+msgstr "Datum"
+
+#: admin/options.php:15 admin/options.php:431
+msgid "General"
+msgstr "Allgemein"
+
+#: admin/options.php:16
+msgid "Load Bootstrap"
+msgstr "Bootstrap laden"
+
+#: admin/options.php:21
+msgid "Page for Products"
+msgstr "Seite für Produktübersicht"
+
+#: admin/options.php:22 admin/options.php:29 admin/options.php:37
+msgid "Count Columns"
+msgstr "Anzahl Spalten"
+
+#: admin/options.php:23
+msgid "Count Products per Page"
+msgstr "Anzahl Produkte je Seite"
+
+#: admin/options.php:27 admin/options.php:433
+msgid "Shops"
+msgstr ""
+
+#: admin/options.php:28
+msgid "Page for Shops"
+msgstr "Seite für Shopübersicht"
+
+#: admin/options.php:30
+msgid "Count Shops per Page"
+msgstr "Anzahl Shops je Seite"
+
+#: admin/options.php:31
+msgid "Kategorien anzeigen"
+msgstr ""
+
+#: admin/options.php:32
+msgid "Kategorien Position"
+msgstr ""
+
+#: admin/options.php:35 admin/options.php:434
+msgid "Suchen"
+msgstr ""
+
+#: admin/options.php:36
+msgid "Page for Search"
+msgstr ""
+
+#: admin/options.php:38
+msgid "Count Search per Page"
+msgstr ""
+
+#: admin/options.php:39
+msgid "Produktsuchen speichern"
+msgstr ""
+
+#: admin/options.php:40
+msgid "EMail-Benachrichtigung"
+msgstr ""
+
+#: admin/options.php:44
+msgid "Sidebars"
+msgstr ""
+
+#: admin/options.php:45
+msgid "HTML before title"
+msgstr ""
+
+#: admin/options.php:46
+msgid "HTML after title"
+msgstr ""
+
+#: admin/options.php:47
+msgid "HTML before widget"
+msgstr ""
+
+#: admin/options.php:48
+msgid "HTML after widget"
+msgstr ""
+
+#: admin/options.php:97 admin/options.php:169 admin/options.php:297
+msgid "Select Page"
+msgstr "Seite auswählen"
+
+#: admin/options.php:224
+msgid "top"
+msgstr "oben"
+
+#: admin/options.php:230
+msgid "bottom"
+msgstr "unten"
+
+#: admin/products.php:16
+msgid "asAffili-Products"
+msgstr ""
+
+#: admin/products.php:27
+msgid "Product-Category"
+msgstr "Produktkategorie"
+
+#: admin/products.php:28
+msgid "Productcategory"
+msgstr "Produktkategorie"
+
+#: admin/products.php:29
+msgid "Search in category"
+msgstr "In Kategorien suchen"
+
+#: admin/products.php:30
+msgid "All categories"
+msgstr "Alle Kategorien"
+
+#: admin/products.php:31
+msgid "Parent-Category"
+msgstr "Übergeordnete Kategorie"
+
+#: admin/products.php:32
+msgid "Parent-Category:"
+msgstr ""
+
+#: admin/products.php:33
+msgid "Edit Category"
+msgstr ""
+
+#: admin/products.php:34
+msgid "Update Category"
+msgstr ""
+
+#: admin/products.php:37
+msgid "Product-Categories"
+msgstr ""
+
+#: admin/products.php:54
+msgid "Details"
+msgstr ""
+
+#: admin/products.php:55
+msgid "Image"
+msgstr ""
+
+#: admin/products.php:73
+msgid "Deeplink:"
+msgstr ""
+
+#: admin/products.php:80
+msgid "Image-URL:"
+msgstr ""
+
+#: admin/products.php:83
+msgid "Price"
+msgstr "Preis"
+
+#: admin/products.php:86
+msgid "Price/Unit:"
+msgstr "Preis/Einheit"
+
+#: admin/products.php:89
+msgid "Price old:"
+msgstr "Alter Preis"
+
+#: admin/products.php:92
+msgid "Shipping Cost:"
+msgstr "Versandkosten"
+
+#: public/functions.php:112
+msgid "&laquo;"
+msgstr ""
+
+#: public/functions.php:113
+msgid "&raquo;"
+msgstr ""
